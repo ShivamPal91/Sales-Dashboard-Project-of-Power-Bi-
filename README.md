@@ -13,8 +13,6 @@ Sales by Category and Sub-Category: Detailed tree map analysis of category and s
 # Why This Project Stands Out
 ## Visually Engaging:
 The dashboard features. analysis. combination of diverse visualizations, including har charts, line charts, donut charts, and tree maps, creating an interactive and insightful
-## Business-Driven Insights:
-Each visual is designed to answer specific business questions, such as identifying high-profit categories and understanding customer purchasing trends.
 
 ## Business-Driven Insights:
 Each visual is designed to answer specific business questions, such as identifying high-profit categories and understanding customer purchasing trends.
@@ -26,7 +24,7 @@ The insights derived from this dashboard can guide business strategies in sales 
 Metric Value <br />
 Total Sales 438K <br />
 Total Profit 37K <br />
-Total Quantity Sold 5615 <br /> 
+Total Quantity Sold 6k <br /> 
 
 # Repository Structure
 Data: https://github.com/ShivamPal91/Sales-Dashboard-Project-of-Power-Bi-/blob/main/Details.csv <br />
