@@ -29,7 +29,7 @@ Total Quantity Sold 6k <br />
 # Repository Structure
 Data: https://github.com/ShivamPal91/Sales-Dashboard-Project-of-Power-Bi-/blob/main/Details.csv <br />
 Dashboard: Power BI file (phix) of the project.](https://github.com/ShivamPal91/Sales-Dashboard-Project-of-Power-Bi-/blob/main/Shivaji%20Project%20power%20bi.pbix) <br />
-Images: [Dashboard Image) <img width="1129" height="638" alt="Screenshot 2026-06-11 170345" src="https://github.com/user-attachments/assets/790efcaa-42dc-41ca-ab75-0cc77bdbb148" />
+Images: (Dashboard Image) <img width="1129" height="638" alt="Screenshot 2026-06-11 170345" src="https://github.com/user-attachments/assets/790efcaa-42dc-41ca-ab75-0cc77bdbb148" />
 
 
 # Feedback & collaboration
